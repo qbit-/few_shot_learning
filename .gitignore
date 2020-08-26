@@ -1,0 +1,16 @@
+# Omit auxiliary files
+*.pyc
+*.log
+*.idea
+*.ipynb_checkpoints
+*__pycache__
+
+# Do not include models
+*.h5
+*.bin
+*.tflite
+*.p
+
+# Do not include notebooks
+notebooks/*.ipynb
+notebooks/data/*
