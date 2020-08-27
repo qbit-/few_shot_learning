@@ -12,5 +12,5 @@
 *.p
 
 # Do not include notebooks
-notebooks/*.ipynb
+#notebooks/*.ipynb
 notebooks/data/*
